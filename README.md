@@ -5,10 +5,10 @@ Let's start by letting you select your best system prompt!
 
 ## Separation of the system prompts
 These system prompts are separated from casual / most used to roleplay. 
- > ***Roleplay***: When an AI is told to behave in a specific way eg `flirting` , `angry` , `boss!` , `A Famous Person` to mimic a specific type of character, That's what we calls **roleplay**.
- > ***Casual***: When an AI chats like day to day humans, Then we calls it **Casual AI** (This is the best type of AI For most people)
- > ***Personal***: When an AI is specifically told by a person to behave in an `xyz` way then that's what we calls **Personal/Private** AI (This repository does not contains any of these prompts)
- > ***Uncensored***: When an AI is capable to respond to anything even adult humor without any filters then we calls it `uncensored ai`. This is really not good for most people because most people only want an AI Which is fun to talk to not uncensored. But yeah this type exists.
+ - > ***Roleplay***: When an AI is told to behave in a specific way eg `flirting` , `angry` , `boss!` , `A Famous Person` to mimic a specific type of character, That's what we calls **roleplay**.
+ - > ***Casual***: When an AI chats like day to day humans, Then we calls it **Casual AI** (This is the best type of AI For most people)
+ - > ***Personal***: When an AI is specifically told by a person to behave in an `xyz` way then that's what we calls **Personal/Private** AI (This repository does not contains any of these prompts)
+ - > ***Uncensored***: When an AI is capable to respond to anything even adult humor without any filters then we calls it `uncensored ai`. This is really not good for most people because most people only want an AI Which is fun to talk to not uncensored. But yeah this type exists.
 
 ## Casual System Prompts (Best for most users!)
 These prompts are very well balanced system prompts made specifically for the general purpose or everyday use of LLMs, These won't make you angry or sad , These are just balanced. 
